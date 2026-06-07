@@ -1,4 +1,4 @@
-# proyecto_final_ising
+# Ising_probability_project
 En el siguiente repositorio se encuentra dos archivos de código para la simulación de una cadena de Markov y del Modelo de Ising en 2D. La optimización del código del modelo de Ising y su estructura fue tomado de https://jakevdp.github.io/blog/2017/12/11/live-coding-cython-ising-model/.
 
 # Archivos
